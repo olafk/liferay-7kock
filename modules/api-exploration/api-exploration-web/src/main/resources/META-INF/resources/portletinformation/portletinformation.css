@@ -1,0 +1,14 @@
+.prefsKey {
+	color: blue;
+	padding-right:10px;
+}
+
+.prefsValue {
+	color: red;
+	padding-left:10px;
+}
+
+td {
+	vertical-align: top;
+}
+
